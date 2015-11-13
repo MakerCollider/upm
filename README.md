@@ -12,6 +12,8 @@ to provide identification/pin location on the board.
 Typically an update() function will be called in order to get new data from the
 sensor in order to reduce load when doing multiple reads to sensor data.
 
+## this project include all the diy upm code for edison
+
 ### Example
 
 A sensor/actuator is expected to work as such (here is the MMA7660 accelerometer API):
